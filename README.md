@@ -18,7 +18,7 @@ The app is responsive.
 Download or clone the repository\
 In the project directory\
 Run **npm install**\
-Run **npm start**\
+Run **npm start**
 
 Open http://localhost:3000 to view it in the browser\
 
@@ -32,7 +32,7 @@ Api calls - axios\
 Bundling - webpack\
 Keys unique id - uuid\
 UI - JSX, Material UI\
-Additional styling - CSS\
+Additional styling - CSS
 
 ## Build status
 
@@ -42,12 +42,12 @@ The application has been partially implemented
 
 User Login validation with jwt token\
 Validation of Greek Tax Id\
-Responsive design\
+Responsive design
 
 ### not implemented
 
 Change of ticket status\
-Display view toggle\
+Display view toggle
 
 ## Screenshots
 
@@ -55,7 +55,7 @@ Display view toggle\
 
 ## API reference
 
-Service Base url: https://frontendtest.unixfor.gr\
+Service Base url: https://frontendtest.unixfor.gr \
 Login: /api/Tickets/login\
 Get Tickets: /api/Tickets/GetTickets\
-Update Status: /api/Tickets/UpdateStatus\
+Update Status: /api/Tickets/UpdateStatus
