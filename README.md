@@ -15,24 +15,24 @@ The app is responsive.
 
 ## Installation/Launch
 
-Download or clone the repository
-In the project directory
-Run **npm install**
-Run **npm start**
+Download or clone the repository\
+In the project directory\
+Run **npm install**\
+Run **npm start**\
 
-Open http://localhost:3000 to view it in the browser.
+Open http://localhost:3000 to view it in the browser\
 
 ## Technologies applied
 
-Application has been developed with React 18 using create-react-app.
+Application has been developed with React 18 using create-react-app
 
-State Management - useContext
-Routing - react router
-Api calls - axios
-Bundling - webpack
-Keys unique id - uuid
-UI - JSX, Material UI
-Additional styling - CSS
+State Management - useContext\
+Routing - react router\
+Api calls - axios\
+Bundling - webpack\
+Keys unique id - uuid\
+UI - JSX, Material UI\
+Additional styling - CSS\
 
 ## Build status
 
@@ -40,14 +40,14 @@ The application has been partially implemented
 
 ### implemented
 
-User Login validation with jwt token
-Validation of Greek Tax Id
-Responsive design
+User Login validation with jwt token\
+Validation of Greek Tax Id\
+Responsive design\
 
 ### not implemented
 
-Change of ticket status
-Display view toggle
+Change of ticket status\
+Display view toggle\
 
 ## Screenshots
 
@@ -55,7 +55,7 @@ Display view toggle
 
 ## API reference
 
-Service Base url: https://frontendtest.unixfor.gr
-Login: /api/Tickets/login
-Get Tickets: /api/Tickets/GetTickets
-Update Status: /api/Tickets/UpdateStatus
+Service Base url: https://frontendtest.unixfor.gr\
+Login: /api/Tickets/login\
+Get Tickets: /api/Tickets/GetTickets\
+Update Status: /api/Tickets/UpdateStatus\
